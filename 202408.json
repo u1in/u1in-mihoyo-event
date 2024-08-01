@@ -4,6 +4,11 @@
       "content": "月初商店更新",
       "type": "ALL",
       "weight": 0
+    },
+    {
+      "content": "式舆刷新",
+      "type": "Z",
+      "weight": 0
     }
   ],
   "2024-08-02": [
@@ -53,6 +58,11 @@
       "content": "位面分裂",
       "type": "T",
       "weight": 1
+    },
+    {
+      "content": "1.1青衣",
+      "type": "Z",
+      "weight": 2
     }
   ],
   "2024-08-15": [
